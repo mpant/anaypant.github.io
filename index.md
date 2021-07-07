@@ -26,6 +26,14 @@ Since 2020, I have started doing Robotics and AI outreach - for details see belo
 I have been learning some languages such as Python and Java. 
 
 ### Python projects 
+#### 2021
+* Open source projects - https://github.com/psf/python-in-edu
+Contributing to this PSF funded open source project launched in 2021 to support a community of pythonistas who care about education and educators who care about Python, this site provides Vetted Python education resources, OER templates, Getting started guides, Equity toolkits etc. The live site is at https://education.python.org/
+This site is bulit using Django 3.1.6
+##### Pull Requests that got merged
+* https://github.com/psf/python-in-edu/pull/53
+
+#### 2020 and before 
 * [Here](https://docs.google.com/document/d/1phUlpH7skkfB7BKbbKWHfrC9CIJ_36PQ6fyGe1FCwMQ/edit?usp=sharing) is a write-up on my programming projects.
    * [Code for my chess project](https://github.com/anaypant/anaypant.github.io/tree/master/Chess) 
    * [Code for my Stock Market Project](https://github.com/anaypant/anaypant.github.io/tree/master/Stock)
