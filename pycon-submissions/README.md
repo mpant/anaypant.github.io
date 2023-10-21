@@ -1,4 +1,7 @@
 # pycon-submissions
+**2023**
+* [PyGotham TV - Powering Youth Civic Engagement and Social Impact with Python data analytics](https://2023.pygotham.tv/talks/powering-youth-civic-engagement-and-social-impact-with-python-data-analytics/)
+  
 **2022**
 * [PyOhio talk - Flappy Bird AI!](https://www.pyohio.org/2022/program/talks/flappy-bird-ai) 
 
